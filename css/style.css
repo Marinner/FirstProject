@@ -1,0 +1,27 @@
+body{outline: solid red 1px;
+     margin:0;}
+h1 {
+       color:red;
+       text-decoration: underline;}
+.images{
+       width:400px;
+       border-color: red;
+       border-style: solid;
+       border-width: 10px;
+       border-radius: 220px;
+	   }
+td,th{
+border:black solid 1px;
+       }
+div.header {
+		 outline:2px solid black;  
+	   }
+div.image{outline:2px solid black;
+       float:right;}
+div.table{outline:2px solid black;
+       }
+div.list{outline:2px solid black;
+padding:20px;
+       }
+	   div.menu{outline:2px solid black;
+       }
